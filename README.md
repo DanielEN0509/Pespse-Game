@@ -24,5 +24,4 @@ Interactive Environment: Fruits use a Consumer callback to interact with the Ava
 💻 Technical Skills Demonstrated
 Java & OOP: Inheritance, internal Enums, and advanced decoupling techniques.
 Design Patterns & Principles: Factory Pattern, Composite Pattern, and Functional Interfaces (Supplier, Consumer, Function).
-<img width="1911" height="1072" alt="צילום מסך 2026-05-14 081027" src="https://github.com/user-attachments/assets/6a29953d-eea1-4f64-b17c-d42609767e36" />
 Game Physics: Collision handling, velocity management, and deltaTime-based calculations.
